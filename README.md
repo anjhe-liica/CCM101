@@ -4,4 +4,4 @@
 * **Course and Section:** BSIT-4L
 
 ## Description
-This repository contains my assignments, project files, and labs for the Cloud Computing course.
+This repository contains my Lab Activities on CCM101-Cloud Computing.
